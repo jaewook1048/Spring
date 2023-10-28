@@ -11,7 +11,7 @@ import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
 // 애플리케이션 전체를 구성하고 설정하는 클래스
-// 역할과 구현이  직관적으로 보임
+// 역할과 구현이 직관적으로 보임
 // 구성 영역
 public class AppConfig {
 
